@@ -1,5 +1,3 @@
-Abdul Bari
-Balasubramanyam Sopeti
 Mohammad Abdul Bari
 Yousuf Shaik
 Mahesh Ippili
@@ -9,3 +7,4 @@ Teja
 Lavanya
 Naveen
 Teja Srinivas
+Balasubramanyam Sopeti
